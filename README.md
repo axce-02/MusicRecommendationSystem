@@ -2,7 +2,7 @@
 # **Music Recommendation System**
 
 ## **Overview**
-This project is a Song Recommendation System that uses Spotify's API and machine learning techniques to provide personalized song recommendations based on user input. The system includes interactive visualizations and clustering methods to analyze musical features and suggest songs.
+This project is a Music Recommendation System that uses Spotify's API and machine learning techniques to provide personalized song recommendations based on user input. The system includes interactive visualizations and clustering methods to analyze musical features and suggest songs.
 
 ---
 
